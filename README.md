@@ -1,4 +1,5 @@
 # ZSOD
+*uploaded only sample files as files are larger than 250MB*
 zero shot object detection webapp
 Zero-Shot Object Detection (ZSOD) is an emerging computer vision paradigm that enables the 
 detection of novel object categories without requiring explicit training examples, using natural 
